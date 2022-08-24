@@ -1,0 +1,2 @@
+example 1 learning git bash
+and in next step i want to go to commit 2
