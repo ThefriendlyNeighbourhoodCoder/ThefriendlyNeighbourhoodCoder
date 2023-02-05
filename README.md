@@ -7,4 +7,4 @@
 
 ## Hacktoberfest 2022 Badge Dashboard
 
-[![@akashpatra's Holopin board](https://holopin.me/akashpatra)](https://holopin.io/@akashpatra)
+[![An image of @akashpatra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akashpatra)](https://holopin.io/@akashpatra)
